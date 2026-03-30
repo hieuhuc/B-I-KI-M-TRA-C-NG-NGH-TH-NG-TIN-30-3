@@ -1,0 +1,5 @@
+{
+  "name": "Hệ thống Quiz Trực tuyến cho Giảng viên",
+  "description": "Ứng dụng tạo và làm bài kiểm tra trắc nghiệm dành cho sinh viên đại học, hỗ trợ nhập liệu từ file Word và xuất kết quả JSON.",
+  "requestFramePermissions": []
+}
